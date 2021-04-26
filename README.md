@@ -10,5 +10,8 @@ I first downloaded [TaPaCo: A Corpus of Sentential Paraphrases for 73 Languages]
 ## Considerations and Future work
 A quick review of the dataset revealed that some sentences does not sound natural in Turkish (i.e., probably translated from another language), or some pairs may be questionable from one or more semantic perspectives. An upcoming study should fix these issues and further clean the data, but the dataset will be available as V0.1 until then. A baseline model finetuned on this dataset can be found on my [HF Transformers Hub account](https://huggingface.co/mys).
 
+## Citation
+If you find this repo useful for your research, please [consider citation](https://zenodo.org/record/4719801#.YIatzJAzZPY).
+
 ## License
 Creative Commons Attribution 2.0 Generic (CC BY 2.0)

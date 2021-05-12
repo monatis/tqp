@@ -8,7 +8,7 @@ I am releasing a relatively large dataset and a pretrained model for question pa
 Question paraphrasing is an important task in natural language processing with a diverse set of application areas, but Turkish lacks a publically usable dataset for this task. [Only this dataset](https://github.com/savasy/QuestionParaphrasesForTurkish) provides 1377 question paraphrases in Turkish, but it is more suitable for paraphrasing detection than a generation task. Therefore, I decided to form and share a larger dataset to be used to train a question paraphrasing model in Turkish.
 
 ## Usage
-You can use the [https://huggingface.co/mys/mt5-small-turkish-question-paraphrasing](pretrained model) through Transformers Library.  The following simple code is enough to generate 5 paraphrases for the input question.
+You can use the[pretrained model](https://huggingface.co/mys/mt5-small-turkish-question-paraphrasing) through Transformers Library.  The following simple code is enough to generate 5 paraphrases for the input question.
 
 ```python
 from transformers import AutoTokenizer, T5ForConditionalGeneration

@@ -1,6 +1,9 @@
 # tqp
 Dataset and pretrained model for question paraphrasing in Turkish
 
+## Acknowledgement
+Google supported this work by providing Google Cloud credit. Thank you Google for supporting the open source! 🎉
+
 ## Overview
 I am releasing a relatively large dataset and a pretrained model for question paraphrasing in Turkish in this repo.
 
